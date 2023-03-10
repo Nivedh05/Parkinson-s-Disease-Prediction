@@ -1,11 +1,11 @@
 # Parkinson-s-Disease-Prediction
-##Table of Contents ##
-Analyse the target 'status'
-Check correlation between columns
-Set Up Features and Target
-Normalize Data
-Split the data into train and test data
-MODELLING
+## Table of Contents
+## Analyse the target 'status'
+## Check correlation between columns
+## Set Up Features and Target
+## Normalize Data
+## Split the data into train and test data
+ ## MODELLING
 1. A Random Forest Model
 Confusion Matrix
 2. A Decision Tree Model
